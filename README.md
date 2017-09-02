@@ -19,9 +19,9 @@ My main research interest is evolutionary computation, multiobjective optimizait
 
 3. Chong Zhou, Guangming Dai, [Enhanced θ dominance and density selection based evolutionary algorithm for many-objective optimization problems](https://link.springer.com/article/10.1007%2Fs10489-017-0998-9), Applied Intelligence, press online, 2017, DOI: 10.1007/s10489-017-0998-9（IF 1.90，CCF C）
 
-2. Liang Chen, Chong Zhou, Guangming Dai, An improved differential evolution algorithm based on suboptimal solution mutation. International Journal of Computing Science and Mathematics, Vol. 8, No 1, 2017. DOI:10.1504/IJCSM.2017.083141
+2. Liang Chen, Chong Zhou, Guangming Dai, An improved differential evolution algorithm based on suboptimal solution mutation, International Journal of Computing Science and Mathematics, Vol. 8, No 1, 2017. DOI:10.1504/IJCSM.2017.083141
 
-1. Liang Chen, Chong Zhou, Entropy determined hybrid two-stage multi-objective evolutionary algorithm combining locally linear embedding. 2016 IEEE Congress on Evolutionary Computation, CEC 2016, DOI: 10.1109/CEC.2016.7744109
+1. Liang Chen, Chong Zhou, Entropy determined hybrid two-stage multi-objective evolutionary algorithm combining locally linear embedding, IEEE Congress on Evolutionary Computation, CEC 2016, DOI: 10.1109/CEC.2016.7744109
 						
 ### Jekyll Themes
 
