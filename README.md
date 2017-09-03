@@ -1,4 +1,4 @@
-## Welcome to Chong Zhou Pages
+## Welcome to Chong Zhou(周冲) Pages
 
 You can use the [editor on GitHub](https://github.com/zc0315/zc0315.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
